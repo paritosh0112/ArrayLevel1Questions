@@ -1,5 +1,4 @@
-//Write a program to create a array {1, 2, 3, 4, 5} and store 
-//the square of each element in the same Array.
+//Write a program to take 5 inputs in a Array and replace each element with its square.
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
